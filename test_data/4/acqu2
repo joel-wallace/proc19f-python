@@ -1,0 +1,23 @@
+##TITLE= Parameter file, TopSpin 3.5 pl 5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= jc
+$$ 2025-01-08 16:54:02.561 +0000  jc@CZC516016K
+$$ /opt/topspin3.5pl2/data/jc/nmr/emma_19F_trmd_NTD_68TAG_080125/4/acqu2
+$$ process /opt/topspin3.5pl5/prog/au/bin/user/dosy
+##$ACQT0= 0
+##$BF1= 500.18
+##$FnMODE= 1
+##$NUC1= <off>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= 0
+##$ProjAngle= 0
+##$SFO1= 500.18
+##$SW= 24
+##$SW_h= 12004.32
+##$TD= 6
+##END=

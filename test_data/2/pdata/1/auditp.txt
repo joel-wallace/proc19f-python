@@ -1,0 +1,205 @@
+##TITLE= Audit trail, TopSpin 3.5 pl 5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= jc
+$$ /opt/topspin3.5pl2/data/jc/nmr/emma_19F_trmd_NTD_68TAG_080125/2/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-01-08 16:30:16.909 +0000>,<jc>,<CZC516016K>,<go4>,<TopSpin 3.5.5>,
+      <created by zg
+	started at 2025-01-08 16:28:23.876 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       06 BB 94 E2 03 ED 15 18 83 4C 92 67 9C 58 FC 4B
+       data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20>)
+(   2,<2025-01-08 16:30:17.809 +0000>,<jc>,<CZC516016K>,<proc1d>,<TopSpin 3.5.5>,
+      <Start of raw data processing
+       efp LB = 5 FT_mod = 6 PKNL = 1 PHC0 = -45.66807 PHC1 = 0 SI = 32K 
+       data hash MD5: 32K
+       7E 05 A7 BA A7 0B 34 71 D3 BD 01 3C 04 D7 97 B6>)
+$$ /home/joelw/nmr/data/trmd/trmd_iso_ntd_68TAG/2/pdata/1/auditp.txt
+(   3,<2025-03-08T18:05:38.907+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 LB to 0>)
+(   4,<2025-03-08T18:05:54.002+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 SSB to 0>)
+(   5,<2025-03-08T18:06:08.307+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 LB to 100.00>)
+(   6,<2025-03-08T18:06:16.445+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 LB to 5.00>)
+(   7,<2025-03-08T18:06:19.783+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 SSB to 2>)
+(   8,<2025-03-08T18:06:27.273+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 PHC0 to 0>)
+(   9,<2025-03-08T18:06:45.193+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 5 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       F3 4F 51 57 0A EA 99 7F 9C C8 1A 56 7E E4 2C 1F>)
+(  10,<2025-03-08T18:06:57.441+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 PHC0 to -45.668>)
+(  11,<2025-03-08T18:06:58.456+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 5 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       F5 90 13 B0 F9 C1 C3 EF E0 91 80 4D AB B3 F3 23>)
+(  12,<2025-03-08T18:07:05.016+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 LB to 0>)
+(  13,<2025-03-08T18:07:05.760+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 0 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       23 C4 37 CC 9C 9F B2 50 1D CB D4 2C 28 52 09 6E>)
+(  14,<2025-03-08T18:07:27.062+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 SSB to 1>)
+(  15,<2025-03-08T18:07:28.156+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 0 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       23 C4 37 CC 9C 9F B2 50 1D CB D4 2C 28 52 09 6E>)
+(  16,<2025-03-08T18:07:41.083+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 SSB to 2>)
+(  17,<2025-03-08T18:07:45.453+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 WDW to no>)
+(  18,<2025-03-08T18:07:48.413+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 0 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       23 C4 37 CC 9C 9F B2 50 1D CB D4 2C 28 52 09 6E>)
+(  19,<2025-03-08T18:07:54.881+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 WDW to EM>)
+(  20,<2025-03-08T18:07:57.967+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 LB to 2.00>)
+(  21,<2025-03-08T18:07:58.872+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       B9 12 56 EC C6 EB 75 FC A5 7A E4 4A 77 85 B7 39>)
+(  22,<2025-03-08T18:08:10.393+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 SPECTYP to PROTON>)
+(  23,<2025-03-08T18:08:13.700+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       B9 12 56 EC C6 EB 75 FC A5 7A E4 4A 77 85 B7 39>)
+(  24,<2025-03-08T18:08:24.314+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 OFFSET to 0>)
+(  25,<2025-03-08T18:08:25.189+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       B9 12 56 EC C6 EB 75 FC A5 7A E4 4A 77 85 B7 39>)
+(  26,<2025-03-08T18:09:33.628+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 OFFSET to 14.73669>)
+(  27,<2025-03-08T18:09:38.256+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       B9 12 56 EC C6 EB 75 FC A5 7A E4 4A 77 85 B7 39>)
+(  28,<2025-03-08T18:09:40.062+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -45.668 PHC1 = 0 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       B9 12 56 EC C6 EB 75 FC A5 7A E4 4A 77 85 B7 39>)
+(  29,<2025-03-08T18:09:56.142+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       em LB = 2 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       C9 35 E7 84 CB E0 12 86 7B C2 26 D5 0E 9D F3 37>)
+(  30,<2025-03-08T18:09:56.160+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K
+       data hash MD5: 32K
+       EE 8E 77 DB 53 03 5E 21 BD AA CA 4A 37 9D B7 7D>)
+(  31,<2025-03-08T18:09:56.218+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <apk
+       data hash MD5: 32K
+       A0 97 B7 17 11 2D 7E 6E 9F EF A3 15 8D 96 C8 29>)
+(  32,<2025-03-08T18:09:56.239+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <abs n ABSG = 0
+       data hash MD5: 32K
+       14 2C 08 55 1A 8A 5A D8 89 63 3D 95 20 17 93 7B>)
+(  33,<2025-03-08T18:10:02.698+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       fp FT_mod = 6 PKNL = 1 PHC0 = -46.58059 PHC1 = 1.500635 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       B4 9C 1E E3 B8 81 F5 F7 5F 20 D1 E1 76 26 A8 4B>)
+(  34,<2025-03-08T18:10:04.477+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -46.58059 PHC1 = 1.500635 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       93 DC 21 66 7B E0 95 5D 01 4B 2F 6E 97 86 82 7B>)
+(  35,<2025-03-08T18:13:31.730+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 SR to 4.70>)
+(  36,<2025-03-08T18:13:35.145+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -46.58059 PHC1 = 1.500635 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       93 DC 21 66 7B E0 95 5D 01 4B 2F 6E 97 86 82 7B>)
+(  37,<2025-03-08T18:13:36.904+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 2 FT_mod = 6 PKNL = 1 PHC0 = -46.58059 PHC1 = 1.500635 SI = 32K
+       fid data hash MD5: 32K
+       0C 12 BE 8C BE DF E4 EB 53 5E 21 14 9D EA FD 20
+       data hash MD5: 32K
+       93 DC 21 66 7B E0 95 5D 01 4B 2F 6E 97 86 82 7B>)
+(  38,<2025-03-08T18:13:56.747+0000>,<joelw>,<gigha>,<cprserver>,<TopSpin 4.4.1>,
+      <changed parameter F1 SR to 4.70>)
+(  39,<2025-03-08T18:14:09.165+0000>,<joelw>,<gigha>,<sref>,<TopSpin 4.4.1>,
+      <sref
+       data hash MD5: 32K
+       93 DC 21 66 7B E0 95 5D 01 4B 2F 6E 97 86 82 7B>)
+(  40,<2025-03-08T18:16:45.628+0000>,<joelw>,<gigha>,<dataserver>,<TopSpin 4.4.1>,
+      <apbk
+       data hash MD5: 32K
+       93 DC 21 66 7B E0 95 5D 01 4B 2F 6E 97 86 82 7B>)
+(  41,<2025-03-08T18:16:45.644+0000>,<joelw>,<gigha>,<dataserver>,<TopSpin 4.4.1>,
+      <MLCommands store 1r file
+       
+       data hash MD5: 32K
+       4C 89 9D 65 A0 2F A3 C9 33 2A 20 CB 00 F3 BA E5>)
+(  42,<2025-03-08T18:16:45.658+0000>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <ht
+       data hash MD5: 32K
+       4C 89 9D 65 A0 2F A3 C9 33 2A 20 CB 00 F3 BA E5>)
+(  43,<2025-03-08T18:16:46.436+0000>,<joelw>,<gigha>,<dataserver>,<TopSpin 4.4.1>,
+      <sigreg 
+       DEFINE [7.501;7.077]
+       DEFINE [4.715;4.670]
+       DEFINE [3.777;3.716]
+       DEFINE [3.655;3.519]
+       DEFINE [3.171;2.581]
+       DEFINE [1.127;1.052]
+       DEFINE [-0.054;-0.099]
+       data hash MD5: 32K
+       4C 89 9D 65 A0 2F A3 C9 33 2A 20 CB 00 F3 BA E5>)
+##END=
+
+$$ hash MD5
+$$ 5E 17 9E 48 AC 75 6B 82 DE A0 99 64 2C FB 5C 90
