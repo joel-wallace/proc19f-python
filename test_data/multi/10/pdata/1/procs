@@ -1,12 +1,12 @@
-##TITLE= Parameter file, TopSpin 3.5 pl 5
+##TITLE= Parameter file, TopSpin 4.4.1
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 1	$$ modification sequence number
+##NPOINTS= 3	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= jc
-$$ 2025-01-15 18:03:46.648 +0000  jc@CZC516016K
-$$ /opt/topspin3.5pl2/data/jc/nmr/joel_19F_trmf_rnc_fl_68TAG_150125/10/pdata/1/procs
-$$ process /opt/topspin3.5pl5/prog/mod/edparproc
+$$ 2025-05-28 14:38:16.906 +0100  joelw@gigha
+$$ /home/joelw/nmr/proc19f-python/test_data/multi/10/pdata/1/procs
+$$ process /opt/topspin4.4.1/prog/mod/proc1d
 ##$ABSF1= 0
 ##$ABSF2= 0
 ##$ABSG= 0
@@ -38,7 +38,7 @@ $$ process /opt/topspin3.5pl5/prog/mod/edparproc
 ##$ERETIC= no
 ##$F1P= 0
 ##$F2P= 0
-##$FCOR= 0
+##$FCOR= 1
 ##$FTSIZE= 65536
 ##$FT_mod= 6
 ##$GAMMA= 0
@@ -70,18 +70,22 @@ $$ process /opt/topspin3.5pl5/prog/mod/edparproc
 ##$Mdd_CsLAMBDA= 0
 ##$Mdd_CsNITER= 0
 ##$Mdd_CsNORM= 0
-##$Mdd_CsVE= yes
+##$Mdd_CsVE= no
 ##$Mdd_CsZF= 0
+##$Mdd_LrLAMBDA= 0
+##$Mdd_LrNITER= 0
+##$Mdd_LrRANK= 0
+##$Mdd_LrZF= 0
 ##$Mdd_mod= 0
 ##$NCOEF= 0
-##$NC_proc= -10
+##$NC_proc= -3
 ##$NLEV= 6
 ##$NOISF1= 0
 ##$NOISF2= 0
 ##$NSP= 0
 ##$NTH_PI= 0
 ##$NZP= 0
-##$OFFSET= 39.59853
+##$OFFSET= 39.5985313801571
 ##$PC= 1.4
 ##$PHC0= 25.3775
 ##$PHC1= 0
@@ -124,12 +128,17 @@ $$ process /opt/topspin3.5pl5/prog/mod/edparproc
 ##$TM2= 0
 ##$TOPLEV= 100
 ##$USERP1= <>
+##$USERP10= <>
 ##$USERP2= <>
 ##$USERP3= <>
 ##$USERP4= <>
 ##$USERP5= <>
+##$USERP6= <>
+##$USERP7= <>
+##$USERP8= <>
+##$USERP9= <>
 ##$WDW= 1
 ##$XDIM= 0
-##$YMAX_p= 32736020
-##$YMIN_p= -442851202
+##$YMAX_p= 17930869
+##$YMIN_p= -389728925
 ##END=

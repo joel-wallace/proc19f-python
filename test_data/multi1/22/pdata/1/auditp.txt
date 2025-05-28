@@ -1,0 +1,25 @@
+##TITLE= Audit trail, TopSpin 4.4.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= joelw
+$$ /home/joelw/nmr/proc19f-python/test_data/multi1/22/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-03-29 14:38:36.164 +0000>,<jc>,<CZC516016K>,<go4>,<TopSpin 3.5.5>,
+      <created by zg
+	started at 2025-03-29 13:33:59.775 +0000,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       06 BB 94 E2 03 ED 15 18 83 4C 92 67 9C 58 FC 4B
+       data hash MD5: 65K
+       E8 2D D1 71 4C 67 22 27 CB 9D 81 34 55 E9 F3 0A>)
+(   2,<2025-05-28T14:36:22.100+0100>,<joelw>,<gigha>,<proc1d>,<TopSpin 4.4.1>,
+      <Start of raw data processing
+       efp LB = 10 FT_mod = 6 PKNL = 1 PHC0 = 25.3775 PHC1 = 0 SI = 64K
+       fid data hash MD5: 65K
+       E8 2D D1 71 4C 67 22 27 CB 9D 81 34 55 E9 F3 0A
+       data hash MD5: 64K
+       19 27 20 D1 7C F6 47 03 6E 40 26 59 B0 0A BD 2F>)
+##END=
+
+$$ hash MD5
+$$ E3 D8 D7 3F 5A 1B A4 17 18 69 C1 70 64 4E 65 D5

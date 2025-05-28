@@ -1,12 +1,12 @@
-##TITLE= Parameter file, TopSpin 3.5 pl 5
+##TITLE= Parameter file, TopSpin 4.4.1
 ##JCAMPDX= 5.0
 ##DATATYPE= Parameter Values
-##NPOINTS= 1	$$ modification sequence number
+##NPOINTS= 2	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= jc
-$$ 2025-03-28 17:06:29.841 +0000  jc@CZC516016K
-$$ /opt/topspin3.5pl2/data/jc/nmr/emma_19F_trmf_rnc_fl_92TAG_280325/4/pdata/1/proc
-$$ process /opt/topspin3.5pl5/prog/mod/edparproc
+$$ 2025-05-28 14:30:27.158 +0100  joelw@gigha
+$$ /home/joelw/nmr/proc19f-python/test_data/multi1/4/pdata/1/proc
+$$ process /opt/topspin4.4.1/prog/mod/proc1d
 ##$ABSF1= -120
 ##$ABSF2= -150
 ##$ABSG= 2
@@ -83,8 +83,8 @@ $$ process /opt/topspin3.5pl5/prog/mod/edparproc
 ##$NZP= 0
 ##$OFFSET= -108.7523
 ##$PC= 1
-##$PHC0= 25.3775
-##$PHC1= 0
+##$PHC0= 125.819955195426
+##$PHC1= 51.3371063429907
 ##$PH_mod= 1
 ##$PKNL= yes
 ##$PPARMOD= 0
